@@ -1,0 +1,10 @@
+{
+    "name": "day13-modules-task4",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "app.mjs",
+    "scripts": {
+      "start": "node app.mjs"
+    }
+  }
+  
